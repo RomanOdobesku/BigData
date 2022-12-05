@@ -3,5 +3,5 @@
 
 - [x] Lab 1. Introduction to Apache Spark
 - [x] Lab 2. Reports with Apache Spark
-- [ ] Lab 3. Stream processing with Apache Flink  
+- [x] Lab 3. Stream processing with Apache Flink  
 - [ ] Lab 4. ZooKeeper
